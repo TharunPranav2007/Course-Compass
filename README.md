@@ -6,7 +6,7 @@
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-API-blue?logo=google&logoColor=white)](https://ai.google.dev/)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
 
-**Course Compass** is an AI-powered web application designed to help students and professionals navigate the vast world of online education. It provides aggregated reviews, AI-powered insights, and personalized learning paths to help users find the best online courses for their goals.
+**Course Compass** is an AI-powered web application built under **LetsUpgrade SAP Program** designed to help students and professionals navigate the vast world of online education. It provides aggregated reviews, AI-powered insights, and personalized learning paths to help users find the best online courses for their goals.
 
 ---
 
