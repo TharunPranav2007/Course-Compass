@@ -1,0 +1,5 @@
+{
+  "name": "Course Compass",
+  "description": "An AI-powered web application to help students and professionals find the best online courses. It provides aggregated reviews, AI-powered insights, and personalized learning paths to navigate the vast world of online education.",
+  "requestFramePermissions": []
+}
